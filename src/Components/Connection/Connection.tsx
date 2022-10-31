@@ -13,8 +13,8 @@ export const Connection = () => {
                     <input type="text" name='LastName' placeholder='Enter your lastname'/>
                     <textarea name="message" cols={30} rows={10} placeholder='Enter your message'></textarea>
                     <div className={s.buttons}>
-                        <button type='submit'>ОТПРАВИТЬ</button>
-                        <button type='reset'>ОЧИСТИТЬ</button>
+                        <button type='submit'>SEND</button>
+                        <button type='reset'>CLEAR</button>
                     </div>
                 </form>
             </div>
