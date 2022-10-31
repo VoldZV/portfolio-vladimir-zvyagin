@@ -1,0 +1,15 @@
+.header {
+    height: 80px;
+    background-color: #9ae7ca;
+}
+
+.headerContainer {
+    justify-content: flex-end !important;
+}
+
+@media (max-width: 950px) {
+    .headerContainer {
+        justify-content: center !important;
+    }
+}
+

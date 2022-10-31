@@ -1,0 +1,29 @@
+.footerBlock {
+    background-color: #b090ce;
+}
+
+.footerContent {
+    width: 400px;
+    background: #dcc2c2;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.title {
+    background-color: darkkhaki;
+}
+
+.subtitle {
+    margin-top: 20px;
+    background-color: beige;
+}
+
+.pb0 {
+    padding-bottom: 0;
+}
+
+@media (max-width: 650px) {
+    .footerContent {
+        width: 90%;
+    }
+}

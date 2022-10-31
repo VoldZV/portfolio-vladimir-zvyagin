@@ -1,0 +1,23 @@
+.projectsBlock {
+    background-color: darkgreen;
+}
+
+.projects {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.title {
+    background-color: #9ae7ca;
+}
+
+@media (max-width: 1200px) {
+    .projects {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
