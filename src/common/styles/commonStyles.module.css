@@ -36,6 +36,17 @@ button {
     font-size: 14px;
 }
 
+@media (max-width: 950px) {
+    .flexRowContainer {
+        width: 100%;
+    }
+    .flexColumnContainer {
+        width: 100%;
+    }
+}
+
+
+
 @media (max-width: 650px) {
     button {
         width: 120px;
