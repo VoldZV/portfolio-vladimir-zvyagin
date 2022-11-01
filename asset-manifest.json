@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-vladimir-zvyagin/static/css/main.9a718998.css",
+    "main.css": "/portfolio-vladimir-zvyagin/static/css/main.4d06a414.css",
     "main.js": "/portfolio-vladimir-zvyagin/static/js/main.fc31c58d.js",
     "static/js/787.3f3181c9.chunk.js": "/portfolio-vladimir-zvyagin/static/js/787.3f3181c9.chunk.js",
     "index.html": "/portfolio-vladimir-zvyagin/index.html",
-    "main.9a718998.css.map": "/portfolio-vladimir-zvyagin/static/css/main.9a718998.css.map",
+    "main.4d06a414.css.map": "/portfolio-vladimir-zvyagin/static/css/main.4d06a414.css.map",
     "main.fc31c58d.js.map": "/portfolio-vladimir-zvyagin/static/js/main.fc31c58d.js.map",
     "787.3f3181c9.chunk.js.map": "/portfolio-vladimir-zvyagin/static/js/787.3f3181c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a718998.css",
+    "static/css/main.4d06a414.css",
     "static/js/main.fc31c58d.js"
   ]
 }
