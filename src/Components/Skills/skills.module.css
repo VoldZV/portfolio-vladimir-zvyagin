@@ -10,7 +10,7 @@
 }
 
 .title {
-    background-color: #13e529;
+    background-color: #609898;
 }
 
 @media (max-width: 1280px) {
@@ -19,13 +19,13 @@
     }
 }
 
-@media (max-width: 900px) {
-    .skills {
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-    }
-}
+/*@media (max-width: 900px) {*/
+/*    .skills {*/
+/*        flex-direction: column;*/
+/*        align-items: center;*/
+/*        justify-content: space-between;*/
+/*    }*/
+/*}*/
 
 
 
